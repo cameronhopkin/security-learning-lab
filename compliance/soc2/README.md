@@ -170,5 +170,5 @@ Test: Reviewed incident management process:
 
 ## Resources
 
-- [AICPA Trust Services Criteria](https://www.aicpa.org/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022)
-- [SOC 2 Guide](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/sorhome)
+- [AICPA Trust Services Criteria](https://www.aicpa-cima.com/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022)
+- [SOC 2 - Trust Services Criteria](https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2)

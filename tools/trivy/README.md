@@ -259,6 +259,6 @@ trivy image -f cyclonedx nginx:latest
 
 ## References
 
-- [Trivy Documentation](https://aquasecurity.github.io/trivy/)
+- [Trivy Documentation](https://trivy.dev/)
 - [GitHub Repository](https://github.com/aquasecurity/trivy)
 - [Trivy GitHub Action](https://github.com/aquasecurity/trivy-action)

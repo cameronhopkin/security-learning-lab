@@ -170,4 +170,4 @@ bandit -r . -t B608
 
 - [OWASP SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
 - [CWE-89](https://cwe.mitre.org/data/definitions/89.html)
-- [SQLAlchemy Security](https://docs.sqlalchemy.org/en/14/core/sqlelement.html#sqlalchemy.sql.expression.text)
+- [SQLAlchemy Security](https://docs.sqlalchemy.org/en/20/core/sqlelement.html#sqlalchemy.sql.expression.text)

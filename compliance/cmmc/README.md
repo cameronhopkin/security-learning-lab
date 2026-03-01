@@ -131,6 +131,6 @@ CMMC is a DoD cybersecurity standard for defense contractors handling:
 ## Resources
 
 - [CMMC Official Site](https://dodcio.defense.gov/CMMC/)
-- [NIST SP 800-171](https://csrc.nist.gov/publications/detail/sp/800-171/rev-2/final)
+- [NIST SP 800-171](https://csrc.nist.gov/pubs/sp/800/171/r3/final)
 - [NIST SP 800-172](https://csrc.nist.gov/publications/detail/sp/800-172/final)
 - [CUI Registry](https://www.archives.gov/cui)
